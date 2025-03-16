@@ -1,0 +1,8 @@
+Package: com.xplo8e.xdump
+Name: xDump
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: APPLE
+Author: APPLE
+Section: Utilities
